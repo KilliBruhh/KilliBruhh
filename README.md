@@ -5,21 +5,11 @@
 I'm an Software development student based in Antwerp Belgium. Most of my repo's are school projects but i have some personal projects!
 As a Software Development student, I am passionate about investing my free time in the dynamic world of development. In addition to being a guide in our Youth Movement, 'Chiro Schelle,' I actively contribute by maintaining and developing our web applications, website and our google workspace. I find joy in the creative process of bringing ideas to life through coding.
 
-
-<p align="center"
-
-  <a href="https://github.com/KilliBruhh?tab=repositories">
-    <img alt="My Repo's"
-    src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo" />
-  </a>
-
-</p>
-
 ---
 
 
 ### 🔧 My Tools
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: center;>
   <img algin="left" style="padding-right:10px" alt="Angular" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg">
   <img algin="left" style="padding-right:10px" alt="Typescript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img algin="left" style="padding-right:10px" alt="Laravel" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg">
