@@ -8,7 +8,7 @@ As a Software Development student, I am passionate about investing my free time 
 
 <p align="center"
 
-  <a href="https://github.com/KilliBruhh?tab=repositories">
+  <a href="[https://github.com/KilliBruhh?tab=repositories](https://github.com/KilliBruhh?tab=repositories)">
     <img alt="My Repo's"
     src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo" />
   </a>
