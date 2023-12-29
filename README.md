@@ -44,7 +44,7 @@ As a Software Development student, I am passionate about investing my free time 
 
 <details>
 <summary><h2>💬 Personal Info</h2></summary>
-My name is Killian Serluppens, i'm a student at Thomas more and like creating applications that make some tasks easier. I'm also spending some extra free time into learning new skills, like learning about algorithms, game dev, Linux and mutch more! 
+My name is Killian Serluppens, i'm a student at Thomas more and like creating applications that make some tasks easier. I'm also spending some extra free time into learning new skills, like learning about algorithms, game dev, Linux, Flutter and mutch more! 
 Some of my hobbies are: Chiro (Youth movement), playing indoor football with friends and other sporting activities.
 </details>
 
