@@ -11,6 +11,7 @@ As a Software Development student, I am passionate about investing my free time 
 ### 🔧 My Tools
 <div style="display: flex; align-items: center;>
   <img algin="left" style="padding-right:10px" alt="Angular" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg">
+  <img algin="left" style="padding-right:10px" alt="Firebase" width="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" />  
   <img algin="left" style="padding-right:10px" alt="Typescript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img algin="left" style="padding-right:10px" alt="Laravel" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg">
   <img algin="left" style="padding-right:10px" alt="Php" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />          
@@ -24,6 +25,7 @@ As a Software Development student, I am passionate about investing my free time 
   <img algin="left" style="padding-right:10px" alt="C" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img algin="left" style="padding-right:10px" alt="Cpp" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
   <img algin="left" style="padding-right:10px" alt="C#" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+          
 </div>                           
 
 
