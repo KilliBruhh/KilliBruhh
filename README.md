@@ -10,8 +10,9 @@ As a Software Development student, I am passionate about investing my free time 
 
 ### 🔧 My Tools
 <div style="display: flex; align-items: center;>  
-  <img align="left" style="padding-right:10px" alt="Firebase" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" />  
-  <img algin="left" style="padding-right:10px" alt="Angular" width="40px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
+  <img align="left" alt="Firebase" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" />  
+  <img align="left" style="padding-right:10px" alt="Firebase" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" />
+  <img algin="left" alt="Angular" width="40px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
   <img algin="left" style="padding-right:10px" alt="Typescript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img algin="left" style="padding-right:10px" alt="Laravel" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg">
   <img algin="left" style="padding-right:10px" alt="Php" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />          
