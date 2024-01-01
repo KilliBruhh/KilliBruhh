@@ -10,6 +10,7 @@ As a Software Development student, I am passionate about investing my free time 
 
 ### 🔧 My Tools
 <div style="display: flex; align-items: center;>
+  
   <img algin="left" style="padding-right:10px" alt="Angular" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg">
   <img algin="left" style="padding-right:10px" alt="Firebase" width="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" />  
   <img algin="left" style="padding-right:10px" alt="Typescript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
