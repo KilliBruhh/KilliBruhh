@@ -5,29 +5,7 @@
 I'm an Software development student based in Antwerp Belgium. Most of my repo's are school projects but i have some personal projects!
 As a Software Development student, I am passionate about investing my free time in the dynamic world of development. In addition to being a guide in our Youth Movement, 'Chiro Schelle,' I actively contribute by maintaining and developing our web applications, website and our google workspace. I find joy in the creative process of bringing ideas to life through coding.
 
----
-
-
-### 🔧 My Tools
-<div style="display: flex; align-items: center;>  
-  <img align="left" alt="Firebase" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" />  
-  <img align="left" style="padding-right:10px" alt="Firebase" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" />
-  <img algin="left" alt="Angular" width="40px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
-  <img algin="left" style="padding-right:10px" alt="Typescript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img algin="left" style="padding-right:10px" alt="Laravel" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg">
-  <img algin="left" style="padding-right:10px" alt="Php" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />          
-  <img algin="left" style="padding-right:10px" alt="MySql" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <img algin="left" style="padding-right:10px" alt="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />          
-  <img algin="left" style="padding-right:10px" alt="CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />                  
-  <img algin="left" style="padding-right:10px" alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img algin="left" style="padding-right:10px" alt="Tailwind" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" >          
-  <img algin="left" style="padding-right:10px" alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />          
-  <img algin="left" style="padding-right:10px" alt="Qt" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" />        
-  <img algin="left" style="padding-right:10px" alt="C" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  <img algin="left" style="padding-right:10px" alt="Cpp" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-  <img algin="left" style="padding-right:10px" alt="C#" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-          
-</div>                           
+---                      
 
 
 ### 📱 My Socials
